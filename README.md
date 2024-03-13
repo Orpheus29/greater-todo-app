@@ -1,16 +1,24 @@
 <h1 align="center">🔥React/Node Greater Todo App🔥</h1>
 
 <p align="center">
-    <sup>A Todo App for multiple users.</sup>
+    <sup>Fits for multiple users.</sup>
 </p>
 
 <h2 align="center">📋About📋</h2>
 
-I've dubbed this todo app 'Greater' because it embodies a comprehensive approach, integrating user authentication and data storage in a database.
+![image](https://github.com/Orpheus29/greater-todo-app/assets/110335429/052794f5-b7ea-4684-b38a-70665ae141be)
 
-TypeORM is used for database communication.
+![image](https://github.com/Orpheus29/greater-todo-app/assets/110335429/81be1dac-81ed-4331-b148-844afb012a7c)
 
-The application empowers users to search todos by title and filter them based on statuses such as 'Private,' 'General,' or 'Completed'.
+I've named this todo app 'Greater' to reflect its comprehensive nature, seamlessly integrating user authentication and data storage in a database using TypeORM.
+
+![image](https://github.com/Orpheus29/greater-todo-app/assets/110335429/b5717075-0bc9-472e-b71e-71d6ecdb84ff)
+
+With 'Greater Todo App', users can easily view, create, edit, delete, and search for todos by title, as well as filter them based on statuses such as 'Private,' 'General,' or 'Completed'.
+
+![Untitled-1](https://github.com/Orpheus29/greater-todo-app/assets/110335429/9b9a592e-3490-4448-8e74-95c1352fa94d)
+
+Additionally, it is fully optimized for use on desktops, tablets, or mobile phones.
 
 <h2 align="center">🧙‍♂️Technologies used🧙‍♂️</h2>
 
